@@ -1,0 +1,24 @@
+# Ignorar archivos de compilación
+*.o
+*.out
+*.class
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos de entorno virtual
+venv/
+env/
+
+# Ignorar archivos de configuración de IDE
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar otros archivos generados
+.DS_Store
+Thumbs.db
