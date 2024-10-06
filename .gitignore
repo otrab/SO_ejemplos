@@ -25,4 +25,4 @@ env/
 Thumbs.db
 
 # Ignorar carpeta main.dSYM
-main.dSYM/*
+main.dSYM/**
