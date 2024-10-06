@@ -2,6 +2,7 @@
 *.o
 *.out
 *.class
+main
 
 # Ignorar archivos temporales de Python
 __pycache__/
@@ -22,3 +23,6 @@ env/
 # Ignorar otros archivos generados
 .DS_Store
 Thumbs.db
+
+# Ignorar carpeta main.dSYM
+main.dSYM/
